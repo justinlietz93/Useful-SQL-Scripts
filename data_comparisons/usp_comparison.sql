@@ -17,7 +17,7 @@ GO
 --            with a more robust and potentially faster JSON-based method for both row detection and unpivoting.
 -- Constraints: Preserves name, parameters, and output signature.
 -- Author:    Evolution Agent (Evolver-Apex)
--- Date:      2024-07-31
+-- Date:      2025-06-28
 -- =============================================================================================================
 ALTER PROCEDURE [dbo].[usp_comparison_detailed_differences]
     @SchemaName        NVARCHAR (128) = 'dbo',
